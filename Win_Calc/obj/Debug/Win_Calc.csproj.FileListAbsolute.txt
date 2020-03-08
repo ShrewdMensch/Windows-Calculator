@@ -1,0 +1,18 @@
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe.config
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.pdb
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csprojResolveAssemblyReference.cache
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Form1.resources
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Properties.Resources.resources
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.Cache
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.exe
+c:\users\bolarinwa\documents\visual studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.pdb
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe.config
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.pdb
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csprojAssemblyReference.cache
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Form1.resources
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Properties.Resources.resources
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.cache
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.exe
+I:\My PC Backup\Documents\Visual Studio 2012\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.pdb
